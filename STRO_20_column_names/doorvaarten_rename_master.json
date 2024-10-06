@@ -1,0 +1,8 @@
+{
+    "id_doorvaart": "ce_id", 
+    "schipper_voornamen": "firstName", 
+    "schipper_patroniem": "patronymic", 
+    "schipper_tussenvoegsel": "infix", 
+    "schipper_achternaam": "lastName", 
+    "schipper_plaatsnaam": "domicile" 
+}

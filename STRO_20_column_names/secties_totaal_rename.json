@@ -1,0 +1,10 @@
+{
+    "jaar": "year",
+    "rolnr": "microfilm_number",
+    "snr": "section_number",
+    "scnr_begin": "section_first_scan",
+    "scnr_eind": "section_last_scan",
+    "tekst": "text",
+    "snaam": "section_name",
+    "sectienr": "section_id"
+}

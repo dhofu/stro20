@@ -1,0 +1,15 @@
+{
+    "id_doorvaart": "ce_id", 
+    "regel": "row", 
+    "maat": "unitOfMeasure", 
+    "aantal": "quantity", 
+    "soort": "commodity", 
+    "muntsoort1": "currency1", 
+    "muntsoort2": "currency2", 
+    "muntsoort3": "currency3", 
+    "bedrag1": "quantity1", 
+    "bedrag2": "quantity2", 
+    "bedrag3": "quantity3", 
+    "maat_alt": "alternativeUnitOfMeasure", 
+    "aantal_alt": "alternativeQuantity" 
+}

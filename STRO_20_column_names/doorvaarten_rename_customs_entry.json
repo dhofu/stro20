@@ -1,0 +1,8 @@
+{
+    "id_doorvaart": "ce_id", 
+    "dag": "day", 
+    "maand": "month", 
+    "jaar": "year", 
+    "volgnummer": "serialNumber", 
+    "type": "marker"
+}

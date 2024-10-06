@@ -1,0 +1,12 @@
+{
+    "id_doorvaart": "ce_id", 
+    "regel": "row", 
+    "naam": "taxAnnotation", 
+    "muntsoort1": "currency1", 
+    "bedrag1": "quantity1", 
+    "muntsoort2": "currency2", 
+    "bedrag2": "quantity2", 
+    "muntsoort3": "currency3", 
+    "bedrag3": "quantity3", 
+    "korting": "discount" 
+}

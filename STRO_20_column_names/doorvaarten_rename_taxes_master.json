@@ -1,0 +1,10 @@
+{
+    "id_doorvaart": "ce_id", 
+    "soort_korting": "discountAnnotation",
+    "korting_muntsoort1": "Currency1", 
+    "korting_muntsoort2": "Currency2", 
+    "korting_muntsoort3": "Currency3", 
+    "korting_bedrag1": "Quantity1", 
+    "korting_bedrag2": "Quantity2", 
+    "korting_bedrag3": "Quantity3"
+}
